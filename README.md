@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] (https://instagram.com/rv_raghav.21)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://linkedin.com/in/raghavverma21)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghav2103rv@gmail.com) [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/Raghav_2103)    
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rv_raghav.21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavverma21) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghav2103rv@gmail.com) [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/Raghav_2103)    
 
 
   
